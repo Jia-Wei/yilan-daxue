@@ -8,3 +8,7 @@ Welcome to Git & GitHub
 
 Propose some changes to be reviewed
 We can even make more updates as we discuss the proposal
+
+Thank you !!
+I and my friend can edit codes together !!
+Github is convenience 
