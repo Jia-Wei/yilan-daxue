@@ -7,3 +7,4 @@ Welcome to Git & GitHub
 * push to github
 
 Propose some changes to be reviewed
+We can even make more updates as we discuss the proposal
