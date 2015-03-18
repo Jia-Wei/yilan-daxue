@@ -5,3 +5,5 @@ Welcome to Git & GitHub
 * what is git
 * mac / windows applications
 * push to github
+
+Propose some changes to be reviewed
