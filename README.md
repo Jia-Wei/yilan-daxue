@@ -4,3 +4,4 @@ Welcome to Git & GitHub
 * what is version control
 * what is git
 * mac / windows applications
+* push to github
